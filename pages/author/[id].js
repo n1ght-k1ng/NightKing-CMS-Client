@@ -1,5 +1,5 @@
 
-import AuthorLayout from "../../components/layout/AuthorLayout";
+import AuthorLayout from "../../components/layout/authorLayout";
 import ProfileUpdate from "../../components/user/ProfileUpdate";
 
 

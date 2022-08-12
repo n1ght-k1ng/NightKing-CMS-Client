@@ -1,5 +1,5 @@
 import {Row , Col} from "antd"
-import AuthorLayout from "../../../components/layout/AuthorLayout";
+import AuthorLayout from "../../../components/layout/authorLayout";
 import UploadFile from "../../../components/media/UploadFile"
 
 

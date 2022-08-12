@@ -1,5 +1,5 @@
 import {Button} from "antd"
-import AuthorLayout from "../../../components/layout/AuthorLayout";
+import AuthorLayout from "../../../components/layout/authorLayout";
 
 import MediaLibrary from "../../../components/media/MediaLibrary";
 // const {Content , Sider} = Layout;
