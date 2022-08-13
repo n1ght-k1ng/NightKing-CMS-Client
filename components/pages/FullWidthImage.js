@@ -13,7 +13,7 @@ const FullWidthImage = ({ title='NightKing-CMS' , subtitle="Get in lad", fullWid
         }}> 
         <h1>{title}</h1>
         <p style={{fontSize: "18px", marginTop: "-70px"}}>{subtitle}</p>
-        {/* <Link href ="/subscriber"><a><Button type='primary' size='large' icon={(<SendOutlined/>)}>Explore</Button></a></Link> */}
+        <Link href ="/posts"><a><Button type='primary' size='large' icon={(<SendOutlined/>)}>Explore</Button></a></Link>
         </div>
     </>
 )
